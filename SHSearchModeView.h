@@ -12,7 +12,7 @@
 typedef enum {
     SEARCH_MODE_PEOPLE = 0,
     SEARCH_MODE_TAGS = 1,
-    SEARCH_MODE_PLACES = 2,
+    SEARCH_MODE_POSTS = 2,
     
 } SearchModeEnum;
 
